@@ -1,0 +1,11 @@
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.deps.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.runtimeconfig.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.runtimeconfig.dev.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.pdb
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.AssemblyInfoInputs.cache
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.AssemblyInfo.cs
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.pdb
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.csprojAssemblyReference.cache

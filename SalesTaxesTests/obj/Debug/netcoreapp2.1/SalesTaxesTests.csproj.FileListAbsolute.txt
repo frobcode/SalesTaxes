@@ -1,0 +1,17 @@
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxesTests.deps.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxesTests.runtimeconfig.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxesTests.runtimeconfig.dev.json
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxesTests.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxesTests.pdb
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxes.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\bin\Debug\netcoreapp2.1\SalesTaxes.pdb
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.csprojAssemblyReference.cache
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.csproj.CoreCompileInputs.cache
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.AssemblyInfoInputs.cache
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.AssemblyInfo.cs
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.csproj.CopyComplete
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.dll
+C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxesTests\obj\Debug\netcoreapp2.1\SalesTaxesTests.pdb
