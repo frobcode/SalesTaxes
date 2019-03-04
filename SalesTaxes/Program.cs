@@ -11,6 +11,7 @@ namespace SalesTaxes
             program.Input2();
             program.Input3();
 
+            Console.ReadKey();
         }
 
         public void Input1()

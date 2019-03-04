@@ -9,3 +9,14 @@ C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1
 C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.dll
 C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.pdb
 C:\Users\guy14\source\repos\Points\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.csprojAssemblyReference.cache
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.deps.json
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.runtimeconfig.json
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.runtimeconfig.dev.json
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.dll
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\bin\Debug\netcoreapp2.1\SalesTaxes.pdb
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.csprojAssemblyReference.cache
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.AssemblyInfoInputs.cache
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.AssemblyInfo.cs
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.dll
+C:\git\SalesTaxes\SalesTaxes\SalesTaxes\obj\Debug\netcoreapp2.1\SalesTaxes.pdb

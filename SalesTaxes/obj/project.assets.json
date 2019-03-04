@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj",
+      "projectUniqueName": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj",
       "projectName": "SalesTaxes",
-      "projectPath": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj",
+      "projectPath": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj",
       "packagesPath": "C:\\Users\\guy14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxes\\obj\\",
+      "outputPath": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

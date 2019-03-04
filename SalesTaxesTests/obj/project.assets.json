@@ -5831,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxesTests\\SalesTaxesTests.csproj",
+      "projectUniqueName": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxesTests\\SalesTaxesTests.csproj",
       "projectName": "SalesTaxesTests",
-      "projectPath": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxesTests\\SalesTaxesTests.csproj",
+      "projectPath": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxesTests\\SalesTaxesTests.csproj",
       "packagesPath": "C:\\Users\\guy14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxesTests\\obj\\",
+      "outputPath": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxesTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5854,8 +5854,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj": {
-              "projectPath": "C:\\Users\\guy14\\source\\repos\\Points\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj"
+            "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj": {
+              "projectPath": "C:\\git\\SalesTaxes\\SalesTaxes\\SalesTaxes\\SalesTaxes.csproj"
             }
           }
         }
