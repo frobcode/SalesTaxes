@@ -32,9 +32,9 @@ namespace SalesTaxes
             foreach (var key in Products.Keys)
             {
                 double tax = taxCounter.TaxCount(key.ProductCategory, key.Price, key.IsImported);
-                SalesTaxes += tax;
-                Total += key.Price + tax; 
-                res.Append(Products[key].ToString() + " " + key.Name + " : " + Math.Round( key.Price + tax, 2, MidpointRounding.AwayFromZero).ToString() +"\n");
+                SalesTaxes += tax * Products[key];
+                Total += (key.Price + tax) * Products[key]; 
+                res.Append(Products[key].ToString() + " " + key.Name + " : " + Math.Round( key.Price + tax, 2, MidpointRounding.AwayFromZero) * Products[key] + "\n");
 
             }
                 res.Append("Sales Taxes: " + SalesTaxes + "\n");

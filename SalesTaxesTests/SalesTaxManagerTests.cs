@@ -59,7 +59,7 @@ namespace SalesTaxesTests
         [TestMethod]
         public void SalesTaxManagerShouldGenerateReceiptWithRightProductsNumberOfSameKind()
         {
-            var expected = "3 imported bottle of perfume : 32.19\n2 packet of headache pills : 9.75\n1 box of imported chocolates : 11.85\nSales Taxes: 4.8\nTotal: 53.79\n";
+            var expected = "3 imported bottle of perfume : 96.57\n2 packet of headache pills : 19.5\n1 box of imported chocolates : 11.85\nSales Taxes: 13.2\nTotal: 127.92\n";
 
             SalesManager.AddProduct("imported bottle of perfume", Category.Other, 27.99, true);
             SalesManager.AddProduct("imported bottle of perfume", Category.Other, 27.99, true);
